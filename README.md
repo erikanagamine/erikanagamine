@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a cloud solutions engineer at Oracle Corporation. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data as a Data Science.
+
+I love to contribute in community 👯 and I'm speaker 😄.
+
+Fun fact: I like to play bass on my free time!
+
+If I can help you in something, don't exitate to tell me!
+
+You can reach me in linkedin 📫: https://www.linkedin.com/in/erikanagamine/
+
 <!--
 **erikanagamine/erikanagamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
