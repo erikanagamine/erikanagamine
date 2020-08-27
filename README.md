@@ -4,11 +4,9 @@ I'm a cloud solutions engineer at Oracle Corporation. I've a extensive backgroun
 
 I love to contribute in community 👯 and I'm speaker 😄.
 
-Fun fact: I like to play bass on my free time!
-
 If I can help you in something, don't exitate to tell me!
 
-You can reach me in linkedin 📫: https://www.linkedin.com/in/erikanagamine/
+You can reach me at linkedin 📫: https://www.linkedin.com/in/erikanagamine/
 
 <!--
 **erikanagamine/erikanagamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
