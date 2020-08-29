@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a cloud solutions engineer at Oracle Corporation. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data as a Data Science.
+I'm a 🔭 cloud solutions engineer at Oracle Corporation. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data.
 
-I love to contribute in data and woman in tecnologie communities 👯 and I'm speaker 😄.
+I love to contribute in data communities 👯 and I'm speaker 😄.
 
-If I can help you in something, don't exitate to tell me!
+If I can help you in something 💬, don't exitate to tell me!
 
 You can reach me at linkedin 📫: https://www.linkedin.com/in/erikanagamine/
 
