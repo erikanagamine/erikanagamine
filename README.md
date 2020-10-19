@@ -6,7 +6,10 @@ I love to contribute in data communities 👯 and I'm speaker 😄.
 
 If I can help you in something 💬, don't exitate to tell me!
 
-You can reach me at linkedin 📫: https://www.linkedin.com/in/erikanagamine/
+You can reach me at 👯:
+linkedIn 📫: https://www.linkedin.com/in/erikanagamine/
+Instagram: @erikanagamine
+Twitter: @erikanagamine
 
 <!--
 **erikanagamine/erikanagamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
