@@ -13,6 +13,10 @@ Instagram: @erikanagamine
 
 Twitter: @erikanagamine
 
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+
 <!--
 **erikanagamine/erikanagamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
