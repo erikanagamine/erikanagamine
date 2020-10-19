@@ -14,7 +14,8 @@ Instagram: @erikanagamine
 Twitter: @erikanagamine
 
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Erika Nagamine - Octocat](octocat.png "Erika - Octocat")
+
 
 
 <!--
