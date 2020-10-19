@@ -8,7 +8,9 @@ If I can help you in something 💬, don't exitate to tell me!
 
 You can reach me at 👯:
 linkedIn 📫: https://www.linkedin.com/in/erikanagamine/
+
 Instagram: @erikanagamine
+
 Twitter: @erikanagamine
 
 <!--
