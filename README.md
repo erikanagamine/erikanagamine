@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 🔭 cloud solutions engineer at Oracle Corporation. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data.
+I'm a 🔭 cloud solutions architect at Oracle Corporation. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data.
 
 I love to contribute in data communities 👯 and I'm speaker 😄.
 
@@ -12,6 +12,8 @@ linkedIn 📫: https://www.linkedin.com/in/erikanagamine/
 Instagram: @erikanagamine
 
 Twitter: @erikanagamine
+
+My others social networks and links: https://linktr.ee/erikanagamine
 
 
 ![Erika Nagamine - Octocat](octocat.png "Erika - Octocat")
