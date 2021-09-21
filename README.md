@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Actualy I'm a 🔭 technical trainer. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data.
+Actually I'm a 🔭 technical trainer. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data.
 
 I love to contribute in data communities 👯 and I'm speaker 😄.
 
