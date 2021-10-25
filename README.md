@@ -12,7 +12,7 @@
 
 🤔 You can reach me at:
 
-📫: https://linktr.ee/erikanagamine
+📫 https://linktr.ee/erikanagamine
 
 ✨ My content here is in Portuguese and English.
 
