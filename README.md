@@ -4,7 +4,7 @@
 
 🔭 I've a extensive background as a Database Administrator and Data Engineer.
 
-🌱 Now I'm in a new jorney in data world: I'm learning how to extract a better insights with data as a Data Scientist. Here you will found some studies that I've done in my life and I hope that information help you in your carrier.
+🌱 Now I'm in a new jorney in data world: I'm learning how to extract a better insights with data as a Data Scientist. Here you will found some studies that I've done in my life and I hope this information help you in your carrier.
 
 👯 I love to contribute in data communities.
 
@@ -14,7 +14,7 @@
 
 📫: https://linktr.ee/erikanagamine
 
-✨ My content is in Portuguese and English.
+✨ My content here is in Portuguese and English.
 
 ![Erika Nagamine - Octocat](octocat.png "Erika - Octocat")
 
