@@ -1,23 +1,20 @@
 ### Hi there 👋
 
-Opinions and views here are my own, not of my employer!
+💬 Opinions and views here are my own, not of my employer!
 
-I've a extensive background as a Database Administrator and Data Engineer 🔭. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data as a Data Scientist.
+🔭 I've a extensive background as a Database Administrator and Data Engineer.
 
-I love to contribute in data communities 👯 and I'm speaker 😄.
+🌱 Now I'm in a new jorney in data world: I'm learning how to extract a better insights with data as a Data Scientist. Here you will found some studies that I've done in my life and I hope that information help you in your carrier.
 
-If I can help you in something 💬, don't exitate to tell me!
+👯 I love to contribute in data communities.
 
-You can reach me at 👯:
-linkedIn 📫: https://www.linkedin.com/in/erikanagamine/
+😄 If I can help you in something, don't exitate to tell me!
 
-Instagram: @erikanagamine
+🤔 You can reach me at:
 
-Twitter: @erikanagamine
+📫: https://linktr.ee/erikanagamine
 
-My others social networks and links: https://linktr.ee/erikanagamine
-
-
+✨ My content is in Portuguese and English.
 
 ![Erika Nagamine - Octocat](octocat.png "Erika - Octocat")
 
