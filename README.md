@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Actually I'm a 🔭 technical trainer. I've a extensive background as a Database Administrator and Data Engineer. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data as a Data Scientist.
+Opinions and views here are my own, not of my employer!
+
+I've a extensive background as a Database Administrator and Data Engineer 🔭. Now I'm in a new jorney in data world: 🌱 I'm learning how to extract a better insights with data as a Data Scientist.
 
 I love to contribute in data communities 👯 and I'm speaker 😄.
 
@@ -15,7 +17,6 @@ Twitter: @erikanagamine
 
 My others social networks and links: https://linktr.ee/erikanagamine
 
-Opinions and views here are my own, not of my employer!
 
 
 ![Erika Nagamine - Octocat](octocat.png "Erika - Octocat")
