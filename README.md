@@ -2,9 +2,9 @@
 
 💬 Opinions and views here are my own, not of my employer!
 
-🔭 I've a extensive background as a Database Administrator and Data Engineer.
+🔭 I've a extensive background as a Data Professional
 
-🌱 Now I'm in a new jorney in data world: I'm learning how to extract a better insights with data as a Data Scientist. Here you will found some studies that I've done in my life and I hope this information help you in your carrier.
+🌱 Now I'm in a new jorney in data world: I'm learning how to extract a better insights with data as a Data Professional
 
 👯 I love to contribute in data communities.
 
