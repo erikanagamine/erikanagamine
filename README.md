@@ -18,7 +18,6 @@ Check out my [Linktree](https://linktr.ee/erikanagamine) for more ways to get in
 
 --- 
 
-Let me know if there’s anything else you’d like to add or change!
 
 ![Erika Nagamine - Octocat](octocat.png "Erika - Octocat")
 
