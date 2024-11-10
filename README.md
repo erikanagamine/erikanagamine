@@ -1,20 +1,24 @@
-### Hi there 👋
+# Hi there! 👋
 
-💬 Opinions and views here are my own, not of my employer!
+Welcome to my GitHub! Here, I share my personal projects, insights, and knowledge as a data professional. The opinions here are my own and don’t represent those of my employer.
 
-🔭 I've a extensive background as a Data Professional
+### 🌟 About Me
+🔭 I bring an extensive background in data & AI, with experience across various areas in the field. Currently I'm Specialist Solutions Architect at Amazon Web Services.
 
-🌱 Now I'm in a new jorney in data world: I'm learning how to extract a better insights with data as a Data Professional
+🌱 Currently, I’m focused on enhancing my ability to extract deeper insights from data.
 
-👯 I love to contribute in data communities.
+👯 Passionate about contributing to data communities, I enjoy sharing knowledge and learning from others.
 
-😄 If I can help you in something, don't exitate to tell me!
+😄 Feel free to reach out if I can assist with anything data-related!
 
-🤔 You can reach me at:
+### 📫 Connect With Me
+Check out my [Linktree](https://linktr.ee/erikanagamine) for more ways to get in touch.
 
-📫 https://linktr.ee/erikanagamine
+✨ Content here is available in both Portuguese and English.
 
-✨ My content here is in Portuguese and English.
+--- 
+
+Let me know if there’s anything else you’d like to add or change!
 
 ![Erika Nagamine - Octocat](octocat.png "Erika - Octocat")
 
